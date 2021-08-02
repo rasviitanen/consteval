@@ -2,7 +2,8 @@
 macro crimes to evaluate non-const stuff at compile time
 
 Disclaimer: This hijacks the compilation process, so use it with caution and probably for nothing serious.
-This only works on windoes for now, but you should be ablr to switch the .dll to something else to make it work on other platforms
+
+This only works on windows for now due to a hard coded dll-path, but you should be able to switch the .dll to something else for other platforms.
 
 
 ### Example
